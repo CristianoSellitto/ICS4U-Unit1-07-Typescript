@@ -1,3 +1,12 @@
+/**
+*
+* This program generates student's marks
+*
+* By:      Cristiano Sellitto
+* Version: 1.0
+* Since:   2024-03-06
+*/
+
 import { writeFileSync } from "fs"
 
 function generateGaussian(mean: number ,std: number){
